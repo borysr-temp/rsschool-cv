@@ -48,14 +48,14 @@ function narcissistic(value) {
 ## EXPERIENCE
 
 **Jun 20XX – till now**
-*Magento Back-end Developer*
-Worked on a high-loaded Swedish telecom projects on Magento 1/2.
+*Magento Back-end Developer*  
+Worked on a high-loaded Swedish telecom projects on Magento 1/2.  
 Developed Magento extensions for business logic implementation. Integrated Magento with 3rd party API.
 
 **Nov 20XX – May 20XX**
-*Magento Developer*
-Worked on maintenance of Magento 1 and Magento 2 modules.
-Developed new features, debugged and fixed bugs.
+*Magento Developer*  
+Worked on maintenance of Magento 1 and Magento 2 modules.  
+Developed new features, debugged and fixed bugs.  
 Analyzed and created new sales reports
 
 ---
