@@ -1,24 +1,24 @@
 # Boris Ruv
 
-**Phone: +380 67 456 789**
-**Email: boris.ruv@gmail.com**
-**Linkedin: https://www.linkedin.com/in/boris-test**
+**Phone: +380 67 456 789**  
+**Email: boris.ruv@gmail.com**  
+**Linkedin: https://www.linkedin.com/in/boris-test**  
 
 -----
 
 ## SUMARY OF QUALIFICATION
 
-I am a PHP developer with a X years of professional experience and solid knowledge of such technologies as PHP, SQL, JavaScript, include X years extensive experience with Magento.
-I have strong understanding of the object-oriented concepts and design patterns. I have been involved in major long-term projects which gave me strong experience in software development. I have significant experience in a product company, daily communication with customers and understanding of their business requirements. I worked with high-load projects. I have experience and good understanding of Scrum methodology.
+I am a PHP developer with a X years of professional experience and solid knowledge of such technologies as PHP, SQL, JavaScript, include X years extensive experience with Magento.  
+I have strong understanding of the object-oriented concepts and design patterns. I have been involved in major long-term projects which gave me strong experience in software development. I have significant experience in a product company, daily communication with customers and understanding of their business requirements. I worked with high-load projects. I have experience and good understanding of Scrum methodology.  
 I always open to new and accept the challenges with interest and enthusiasm. I have very good skills in problem solving. I am open-minded and goal-oriented. I have active teamwork attitude and quick learning ability.
 
 ---
 
 ## SKILLS
 
-Programming Languages: PHP, JavaScript
-Frameworks: Magento 1, Magento 2
-RDBMS: MySQL, PostgreSQL (including PL/pgSQL) Experience with large amounts of data, Performance optimization
+Programming Languages: PHP, JavaScript  
+Frameworks: Magento 1, Magento 2  
+RDBMS: MySQL, PostgreSQL (including PL/pgSQL) Experience with large amounts of data, Performance optimization  
 Source Control: Git
 
 ---
